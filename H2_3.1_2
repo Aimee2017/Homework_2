@@ -1,0 +1,6 @@
+ lambda=4
+ x=6
+ pxx=exp(-lambda)*lambda^x/factorial(x)
+ pxx
+
+ 

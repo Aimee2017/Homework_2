@@ -1,0 +1,3 @@
+lambda=4
+x=6
+dpois(x,lambda)
